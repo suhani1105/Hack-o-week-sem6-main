@@ -1,2 +1,0 @@
-model_type,alpha,beta,gamma,phi,seasonal_periods,mae,rmse,mape,forecast_value,capacity_utilization
-Holt-Winters Triple Exponential Smoothing,0.9999999850988388,0.0,0.0,0.9546873083932765,13,152.22439613909916,221.49492087338007,29.55226374744947,320.66493546569524,40.083116933211905
