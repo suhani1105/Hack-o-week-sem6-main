@@ -1,0 +1,9 @@
+zone,avg_usage,peak_usage,offpeak_usage
+Zone A,300,450,200
+Zone B,250,380,170
+Zone C,500,700,350
+Zone D,150,220,100
+Zone E,420,600,300
+Zone F,200,300,140
+Zone G,550,750,400
+Zone H,180,260,120

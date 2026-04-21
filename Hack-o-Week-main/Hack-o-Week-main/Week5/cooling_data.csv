@@ -1,0 +1,13 @@
+zone,occupancy,temperature,cooling_need
+Zone A,10,24,Low
+Zone A,20,27,Medium
+Zone A,35,30,High
+Zone B,5,22,Low
+Zone B,18,26,Medium
+Zone B,40,32,High
+Zone C,8,23,Low
+Zone C,25,28,Medium
+Zone C,45,33,High
+Zone D,12,25,Low
+Zone D,30,29,Medium
+Zone D,50,35,High

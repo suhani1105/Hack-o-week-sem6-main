@@ -1,0 +1,13 @@
+datetime,day_type,event,electricity
+2025-01-01 00:00,Weekday,No,120
+2025-01-01 01:00,Weekday,No,115
+2025-01-01 02:00,Weekday,No,110
+2025-01-01 12:00,Weekday,No,300
+2025-01-01 13:00,Weekday,No,320
+2025-01-01 18:00,Weekday,No,280
+2025-01-02 12:00,Event,Yes,450
+2025-01-02 13:00,Event,Yes,480
+2025-01-02 18:00,Event,Yes,420
+2025-01-03 12:00,Weekend,No,250
+2025-01-03 13:00,Weekend,No,270
+2025-01-03 18:00,Weekend,No,260
